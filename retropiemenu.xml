@@ -99,8 +99,8 @@ Theme Concept based on images posted by: lipebello on Retropie.org.uk/forum
 				<pos>0.67 0.4</pos>
 				<origin>0.5 0.5</origin>
 				<maxSize>0.3 0.408</maxSize>
-				<delay></delay>
-				<default></default>
+			<!--	<delay></delay>
+				<default></default> -->
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
 				<showSnapshotDelay>false</showSnapshotDelay>
 			</video>
